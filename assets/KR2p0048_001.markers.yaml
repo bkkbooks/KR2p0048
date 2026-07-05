@@ -14,7 +14,6 @@ markers:
   - {type: xml-element, offset: 11, content: '', id: KR2p0048_tls_001-bkkxmlele3, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.2 (STRIPS 1-2) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 11, content: '', id: KR2p0048_tls_001-2a}
   - {type: 'tls:seg', offset: 11, content: '', id: KR2p0048_tls_001-2a.1}
-  - {type: substitution, offset: 12, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 16, content: ',', id: KR2p0048_tls_001-bkkpn3}
   - {type: 'tls:seg', offset: 16, content: '', id: KR2p0048_tls_001-2a.2}
   - {type: punctuation, offset: 27, content: ',', id: KR2p0048_tls_001-bkkpn4}
@@ -23,7 +22,6 @@ markers:
   - {type: xml-element, offset: 40, content: '', id: KR2p0048_tls_001-bkkxmlele5, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.3 (STRIP 2) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 40, content: '', id: KR2p0048_tls_001-3a}
   - {type: 'tls:seg', offset: 40, content: '', id: KR2p0048_tls_001-3a.1}
-  - {type: substitution, offset: 41, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 45, content: ',', id: KR2p0048_tls_001-bkkpn5}
   - {type: 'tls:seg', offset: 45, content: '', id: KR2p0048_tls_001-3a.2}
   - {type: punctuation, offset: 56, content: ',', id: KR2p0048_tls_001-bkkpn6}
@@ -32,7 +30,6 @@ markers:
   - {type: xml-element, offset: 69, content: '', id: KR2p0048_tls_001-bkkxmlele7, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.4 (STRIPS 2-3) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 69, content: '', id: KR2p0048_tls_001-4a}
   - {type: 'tls:seg', offset: 69, content: '', id: KR2p0048_tls_001-4a.1}
-  - {type: substitution, offset: 70, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 74, content: ',', id: KR2p0048_tls_001-bkkpn7}
   - {type: 'tls:seg', offset: 74, content: '', id: KR2p0048_tls_001-4a.2}
   - {type: punctuation, offset: 84, content: ',', id: KR2p0048_tls_001-bkkpn8}
@@ -41,7 +38,6 @@ markers:
   - {type: xml-element, offset: 94, content: '', id: KR2p0048_tls_001-bkkxmlele9, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.5 (STRIP 3) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 94, content: '', id: KR2p0048_tls_001-5a}
   - {type: 'tls:seg', offset: 94, content: '', id: KR2p0048_tls_001-5a.1}
-  - {type: substitution, offset: 95, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 99, content: ',', id: KR2p0048_tls_001-bkkpn9}
   - {type: 'tls:seg', offset: 99, content: '', id: KR2p0048_tls_001-5a.2}
   - {type: punctuation, offset: 107, content: ',', id: KR2p0048_tls_001-bkkpn10}
@@ -50,7 +46,6 @@ markers:
   - {type: xml-element, offset: 119, content: '', id: KR2p0048_tls_001-bkkxmlele11, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.6 (STRIP 4) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 119, content: '', id: KR2p0048_tls_001-6a}
   - {type: 'tls:seg', offset: 119, content: '', id: KR2p0048_tls_001-6a.1}
-  - {type: substitution, offset: 120, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 124, content: ',', id: KR2p0048_tls_001-bkkpn11}
   - {type: 'tls:seg', offset: 124, content: '', id: KR2p0048_tls_001-6a.2}
   - {type: punctuation, offset: 134, content: ',', id: KR2p0048_tls_001-bkkpn12}
@@ -59,7 +54,6 @@ markers:
   - {type: xml-element, offset: 146, content: '', id: KR2p0048_tls_001-bkkxmlele13, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.7 (STRIPS 4-5) JI XUSHENG 4: 106'}}
   - {type: page-break, offset: 146, content: '', id: KR2p0048_tls_001-7a}
   - {type: 'tls:seg', offset: 146, content: '', id: KR2p0048_tls_001-7a.1}
-  - {type: substitution, offset: 147, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 151, content: ',', id: KR2p0048_tls_001-bkkpn13}
   - {type: 'tls:seg', offset: 151, content: '', id: KR2p0048_tls_001-7a.2}
   - {type: punctuation, offset: 160, content: (, id: KR2p0048_tls_001-bkkpn14}
@@ -203,13 +197,11 @@ markers:
   - {type: xml-element, offset: 373, content: '', id: KR2p0048_tls_001-bkkxmlele35, name: p, role: open, attrs: {source: 'SHANGBO.NEILI 4.19.18 (STRIP 10) JI XUSHENG 4: 107'}}
   - {type: page-break, offset: 373, content: '', id: KR2p0048_tls_001-18a}
   - {type: 'tls:seg', offset: 373, content: '', id: KR2p0048_tls_001-18a.1}
-  - {type: substitution, offset: 374, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 381, content: ',', id: KR2p0048_tls_001-bkkpn61}
   - {type: 'tls:seg', offset: 381, content: '', id: KR2p0048_tls_001-18a.2}
-  - {type: substitution, offset: 381, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 388, content: '', id: KR2p0048_tls_001-18a.3}
   - {type: punctuation, offset: 391, content: ',', id: KR2p0048_tls_001-bkkpn62}
   - {type: 'tls:seg', offset: 391, content: '', id: KR2p0048_tls_001-18a.4}
   - {type: xml-element, offset: 395, content: '', id: KR2p0048_tls_001-bkkxmlele36, name: p, role: close, attrs: {source: 'SHANGBO.NEILI 4.19.18 (STRIP 10) JI XUSHENG 4: 107'}}
   back: []
-hash: sha256:3c845272e839afba0a67b27f036c357a7945bc668445dd0f40638a7b394146c3
+hash: sha256:cf87d033d7c2f4576d21ed454d42e4b5f019266b74a81d783297926367d6f82e
